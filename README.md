@@ -1,4 +1,4 @@
-# birthdayBot
+# TuganKuninmenBot
 Birthday tg bot 
 ## Title:
 Telegram Birthday Bot (TBT)
